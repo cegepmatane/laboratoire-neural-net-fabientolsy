@@ -10,7 +10,7 @@ Fabien TOLSY
 
 ### Mon premier reseaux neuronal
 
-https://colab.research.google.com/drive/1N0uImy9Q9AavpifabXgS3py0-GJ3XWON?usp=sharing
+https://colab.research.google.com/drive/15EU_47F0A9m7Z2LGgPGd2zrlEcBk0Pvi?usp=sharing
 
 ## Labo NeuralNet
 
