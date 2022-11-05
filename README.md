@@ -14,4 +14,4 @@ https://colab.research.google.com/drive/15EU_47F0A9m7Z2LGgPGd2zrlEcBk0Pvi?usp=sh
 
 ## Labo NeuralNet
 
-https://colab.research.google.com/drive/1jsieoURP6dkwmBrfeXUI__hJb9gv7aoq?usp=sharing
+https://colab.research.google.com/drive/1Evigw_RRTHQMLAIIkZV3-vHZioHqL_k3?usp=sharing
